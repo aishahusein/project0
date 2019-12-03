@@ -1,0 +1,23 @@
+.number1, h2 {
+  background-color: lightblue;
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px; }
+
+.number1, h2 {
+  background-color: #BF7F3F; }
+
+.p, div {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  padding: 3px;
+  margin: 3px; }
+
+h1 {
+  color: #3F88BF; }
+
+/*# sourceMappingURL=inheritance.css.map */
